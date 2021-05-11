@@ -1,0 +1,3 @@
+this is my first textfile using vi
+
+this is 3rd line
