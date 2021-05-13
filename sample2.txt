@@ -1,2 +1,3 @@
 this is my first line in 2nd text file
 this is my 2nd normal creation of text file
+made default branch master on github
